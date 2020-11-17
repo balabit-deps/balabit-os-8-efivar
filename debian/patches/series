@@ -1,0 +1,11 @@
+remove-arrows.patch
+b98ba8921010d03f46704a476c69861515deb1ca.patch
+c3c553db85ff10890209d0fe48fb4856ad68e4e0.patch
+fdb803402fb32fa6d020bac57a40c7efe4aabb7d.patch
+4e04afc2df9bbc26e5ab524b53a6f4f1e61d7c9e.patch
+0001-sysfs-parsers-make-all-the-sys-block-link-parsers-wo.patch
+0002-Try-even-harder-to-find-disk-device-symlinks-in-sysf.patch
+0003-Handle-sys-devices-virtual-nvme-fabrics-nvme-subsyst.patch
+0004-Fix-variable-sz-uninitialized-error.patch
+0005-Fix-parsing-for-nvme-subsystem-devices.patch
+Always-initialize-any-variable-we-use-with-sscanf-s-.patch
